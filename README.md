@@ -18,3 +18,5 @@ A collaborative repository for developing a fictional novel using Git and GitHub
 5. Address review feedback.
 6. Merge once approved.
 7. Delete the feature branch.
+
+DELETE * FROM Book_DB;
