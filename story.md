@@ -28,6 +28,6 @@ At the bottom of the staircase, Maya discovered a small stone chamber illuminate
 
 Dust covered every surface, yet the room looked strangely untouched. Shelves filled with carefully preserved journals surrounded a large wooden table, and a single leather-bound book rested in the center as if someone had left it there only moments before.
 
-As Maya reached for the book, she noticed fresh footprints leading toward a doorway on the opposite side of the chamber. She realized she was not the first person to discvoer the archive.
+As Maya reached for the book, she noticed fresh footprints leading toward a doorway on the opposite side of the chamber. She realized she was not the first person to discover the archive.
 
 
