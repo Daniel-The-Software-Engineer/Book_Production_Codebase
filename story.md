@@ -20,3 +20,14 @@ Rows of dusty books lined the walls, and a heavy wooden door stood at the back o
 
 After several failed attempts, she discovered a hidden mechanism behind one of the shelves. The door slowly opened, revealing a narrow staircase leading underground.
 
+--- 
+
+## Chapter 3 – The Hidden Chamber
+
+At the bottom of the staircase, Maya discovered a small stone chamber illuminated by narrow beams of sunlight filtering through cracks in the ceiling.
+
+Dust covered every surface, yet the room looked strangely untouched. Shelves filled with carefully preserved journals surrounded a large wooden table, and a single leather-bound book rested in the center as if someone had left it there only moments before.
+
+As Maya reached for the book, she noticed fresh footprints leading toward a doorway on the opposite side of the chamber. She realized she was not the first person to discvoer the archive.
+
+
